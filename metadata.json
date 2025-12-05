@@ -1,0 +1,9 @@
+{
+  "name": "SOGARWAL CRANE SERVICE",
+  "description": "24/7 Premium Emergency Crane & Recovery Service in Bharatpur. Features live location sharing, AI-assisted estimation, and instant breakdown support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
